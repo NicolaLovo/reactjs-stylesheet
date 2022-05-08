@@ -1,10 +1,10 @@
 interface CSSProperties {
-	[key: string]: React.CSSProperties;
+  [key: string]: React.CSSProperties;
 }
 
 class Stylesheet {
-	static create(styleData: CSSProperties): CSSProperties {
-		return styleData;
-	}
+  static create(styleData: CSSProperties): CSSProperties {
+    return styleData;
+  }
 }
 export default Stylesheet;
