@@ -1,7 +1,7 @@
 {
 	"author": "NicolaLovo",
 	"name": "reactjs-stylesheet",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "A nice greeter",
 	"main": "lib/index.js",
 	"types": "lib/index.d.ts",
