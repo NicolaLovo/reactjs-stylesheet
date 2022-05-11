@@ -1,3 +1,6 @@
 node_modules
 /lib
 tsconfig.json
+# Ignore files with sensitive environment variables
+.env
+.env.test

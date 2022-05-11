@@ -1,9 +1,12 @@
 {
+	"author": "NicolaLovo",
 	"name": "reactjs-stylesheet",
 	"version": "1.0.3",
 	"description": "A nice greeter",
 	"main": "lib/index.js",
 	"types": "lib/index.d.ts",
+	"license": "MIT",
+	"sideEffects": false,
 	"scripts": {
 		"test": "jest --config jestconfig.json",
 		"build": "tsc",
@@ -18,9 +21,14 @@
 		"type": "git",
 		"url": "https://github.com/NicolaLovo/reactjs-stylesheet.git"
 	},
-	"keywords": [],
-	"author": "",
-	"license": "ISC",
+	"keywords": [
+		"reactjs",
+		"stylesheet",
+		"css",
+		"styled-components",
+		"styled-jsx",
+		"inline-style"
+	],
 	"files": [
 		"lib/**/*"
 	],
