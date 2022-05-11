@@ -124,7 +124,6 @@ class Stylesheet {
    *	};
    *	export default MyComponent;
    * ```
-   * sas
    */
   public static createWithTheme(
     colors: Colors,
