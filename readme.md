@@ -13,7 +13,7 @@ reactjs-stylesheet is a package that simplifies the way you can write your style
 
 ## Intellisense support
 
-![Intellisense support image](https://github.com/NicolaLovo/reactjs-stylesheet/blob/HEAD/intellisenseSupport.png)
+![Intellisense support image](intellisenseSupport.png)
 
 ## Installation
 
