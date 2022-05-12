@@ -11,6 +11,10 @@ reactjs-stylesheet is a package that simplifies the way you can write your style
 - Stylesheets with intellisense support in Visual Studio Code, no more style-name guessing!
 - easy and reliable theme handling: now you can switch between all the themes you defined and change the colors of your site
 
+# Table of contents
+
+-[link](/readme/Installation)
+
 ## Intellisense support
 
 ![Intellisense support image](intellisenseSupport.png)
