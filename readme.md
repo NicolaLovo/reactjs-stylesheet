@@ -6,14 +6,21 @@
 
 reactjs-stylesheet is a package that simplifies the way you can write your style for react components in javascript. It takes inspiration from react-native Stylesheet and adds some extra features.
 
-### Combine javascript and CSS, Features:
+# Table of contents
+
+- [The idea behind](/readme#combine-javascript-and-css-features)
+- [Intellisense support](/readme#intellisense-support)
+- [Installation](/readme#installation)
+- [Quick start](/readme#quick-start)
+- [Theme Handling](/readme#theme-handling)
+  - [Basic usage](/readme#basic-usage-inside-a-component)
+  - [Advanced usage](/readme#advanced-usage-in-a-separate-style-module)
+- [License](/readme#license)
+
+## Combine javascript and CSS, Features:
 
 - Stylesheets with intellisense support in Visual Studio Code, no more style-name guessing!
 - easy and reliable theme handling: now you can switch between all the themes you defined and change the colors of your site
-
-# Table of contents
-
--[link](/readme#Installation)
 
 ## Intellisense support
 
