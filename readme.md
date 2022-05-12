@@ -8,14 +8,14 @@ reactjs-stylesheet is a package that simplifies the way you can write your style
 
 # Table of contents
 
-- [The idea behind](/readme#combine-javascript-and-css-features)
-- [Intellisense support](/readme#intellisense-support)
-- [Installation](/readme#installation)
-- [Quick start](/readme#quick-start)
-- [Theme Handling](/readme#theme-handling)
-  - [Basic usage](/readme#basic-usage-inside-a-component)
-  - [Advanced usage](/readme#advanced-usage-in-a-separate-style-module)
-- [License](/readme#license)
+- [The idea behind](#combine-javascript-and-css-features)
+- [Intellisense support](#intellisense-support)
+- [Installation](#installation)
+- [Quick start](#quick-start)
+- [Theme Handling](#theme-handling)
+  - [Basic usage](#basic-usage-inside-a-component)
+  - [Advanced usage](#advanced-usage-in-a-separate-style-module)
+- [License](#license)
 
 ## Combine javascript and CSS, Features:
 
