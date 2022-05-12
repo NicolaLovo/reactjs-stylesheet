@@ -13,7 +13,7 @@ reactjs-stylesheet is a package that simplifies the way you can write your style
 
 # Table of contents
 
--[link](/readme/Installation)
+-[link](/readme#Installation)
 
 ## Intellisense support
 
