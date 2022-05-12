@@ -2,7 +2,7 @@
 	"author": "NicolaLovo",
 	"name": "reactjs-stylesheet",
 	"version": "1.0.8",
-	"description": "A nice greeter",
+	"description": "React.js Stylesheet object: a react-native-like and intuitive way to write jsx style in reactjs",
 	"main": "lib/index.js",
 	"types": "lib/index.d.ts",
 	"license": "MIT",
